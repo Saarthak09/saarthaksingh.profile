@@ -1,3 +1,6 @@
+
+/* this line can be removed later */
+
 .site-header {
     background-color: #3bc48d;
     color :#ecfdf9;
@@ -11,8 +14,8 @@
 .site-text{
     margin: 10px;
 }
-.connect{
-    color :#ecfdf9;
+a{
+    color :#f8f8ff;
 }
 .profile{
     border-radius:50%;
