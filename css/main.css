@@ -23,4 +23,12 @@
 }
 body {
      margin:0;
+     background-color: #3bc48d;
+     color :#ecfdf9;
+}
+
+.tech-stack{
+    font-size: large;
+    color: #ecfdf9;
+
 }
